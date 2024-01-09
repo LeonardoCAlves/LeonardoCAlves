@@ -5,7 +5,7 @@
   <img align="right" color="green" alt="Ebony SyS" height="235" src="https://i.imgur.com/tyrhG9v.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
-    📌 RJ → SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
+    📌 RJ ←→ SP  &nbsp; &nbsp; 👨🏾‍🎓 Engenharia Civil &nbsp; 🎓 Sistema de Informação 
   </p> 
   <p align="center">
     <a href="https://leonardoalves.netlify.app/">🚧 Portfolio &nbsp; &nbsp; ||  </a>
