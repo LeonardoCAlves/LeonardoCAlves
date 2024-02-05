@@ -52,10 +52,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LeonardoCAlves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <br>
-<!-- <p align="center"><strong> Visitas</strong> a partir de 01•01•24 :detective: <br>
+<p align="center"><strong> Visitas</strong> a partir de 01•01•24 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LeonardoCAlves/count.svg" />
-</p> -->
+</p>
 <p align="center">
   <strong>Cursos ONLINE</strong></br> 
   <a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a>&nbsp; &nbsp; 
