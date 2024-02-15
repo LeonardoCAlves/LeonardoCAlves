@@ -42,6 +42,7 @@
   <a href="https://www.youtube.com/channel/UC8fRZfYGd21_D8DwuEcFuHw" target="_blank"><img align="center" alt="Ebony SyS" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925864-5eca65eb-3cb4-48f8-a26e-26d868b3def5.png"></a>
 </p>
 <hr/>
+
 <div align="center">  
   <img width="49%" height="195px" 
     src="https://github-readme-stats.vercel.app/api?username=LeonardoCAlves&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=""/> 
