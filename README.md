@@ -1,4 +1,7 @@
-<h3 align="center">...Perfil Novo...</h3>
+<h3 align="center">...Perfil Novo...</h3> 
+<p align="center">
+  <a href="https://github.com/Leon4rdoalves/">😵‍💫 Perfil antigo</a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🖖+iaeEEeeee!...;Eu+fui+moleque+e+perdi+minha+outra+conta...;Sou+Leonardo+Alves+;Instrutor+e+Programador+há+10+anos...;Aqui+vc+vai+encontrar+alguns+projetos+e+estudos;Espero+que+algum+te+ajude!;Fique+à+vontade!;Puxe+uma+cadeira+e+sente-se+no+chão!+:%29)](https://git.io/typing-svg)
 <p align="justify" fontsize="8">
