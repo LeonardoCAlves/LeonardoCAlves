@@ -1,5 +1,5 @@
 <p align="center">
-  ...Perfil Novo...
+  ...Perfil Antigo →→→
   <a href="https://github.com/Leon4rdoalves/">😵‍💫 Perfil antigo</a>
 </p>
 
