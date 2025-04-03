@@ -51,21 +51,16 @@
     src="https://github-readme-stats.vercel.app/api?username=LeonardoCAlves&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=""/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCAlves&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
-<br>
+<br><!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LeonardoCAlves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
-<br>
+</p>-->
 <p align="center"><strong> Visitas</strong> a partir de 01•01•24 :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LeonardoCAlves/count.svg" />
 </p>
-<p align="center">
-  <strong>Cursos ONLINE</strong></br> 
-  <a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a>&nbsp; &nbsp; 
-  <a href="https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html">Python</a>&nbsp; &nbsp; 
-  <a href="https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-basico-avancado.html">HTML + CSS + JS</a>&nbsp; &nbsp;    
-  <a href="https://www.superprof.com.br/aulas-banco-dados-sql-basico-avancado-com-exercicios-para-dominio-das-rotinas.html">Banco de Dados</a>
-</p>
 
+<div align="center">  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoCAlves&theme=nord_dark" alt="GitHub Stats">
+</div>
 
