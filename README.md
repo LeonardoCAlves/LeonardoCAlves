@@ -11,10 +11,6 @@
     📌 RJ ←→ SP  &nbsp; &nbsp; 👨🏾‍🎓 Sistema de Informação &nbsp; 🎓 PóS IA e Machine Learning 
   </p> 
   <p align="center">
-    <a href="https://leonardoalves.netlify.app/">🚧 Portfolio &nbsp; &nbsp; ||  </a>
-    <a href="https://github.com/Ebony-SYS"> &nbsp; &nbsp; Projetos/Estudos 📦</a>  
- </p>
-  <p align="center">
     <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da GENERATION BR 🧡</a>
   </p>
   <p align="center">
