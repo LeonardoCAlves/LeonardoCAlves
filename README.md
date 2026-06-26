@@ -8,7 +8,7 @@
   <img align="right" color="green" alt="Ebony SyS" height="235" src="https://i.imgur.com/tyrhG9v.png">
   ...aliada minha é a força e poderosa aliada ela é. A vida cria, crescer ela faz, é energia que cerca nós e liga nós. Luminosos seres somos nós, não essa rude matéria, VOCÊ PRECISA A FORÇA SENTIR AO REDOR SEU.
   <p align="center">
-    📌 RJ ←→ SP  &nbsp; &nbsp; 👨🏾‍🎓 Sistema de Informação &nbsp; 🎓 PóS IA e Machine Learning 
+    📌 RJ ←→ SP → UT  &nbsp; &nbsp; 👨🏾‍🎓 Sistema de Informação &nbsp; 🎓 PóS IA e Machine Learning 
   </p> 
   <p align="center">
     <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da GENERATION BR 🧡</a>
